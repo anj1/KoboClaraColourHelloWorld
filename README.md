@@ -1,6 +1,8 @@
-# Kobo App
+# "Hello World" Custom App on Kobo Clara Colour
 
 A simple framebuffer application for the Kobo Clara Colour.
+
+![running demo](demo.jpg)
 
 ## Supported Firmware/Device
 
