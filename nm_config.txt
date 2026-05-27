@@ -1,0 +1,2 @@
+menu_item :main :My App :cmd_spawn :quiet:/mnt/onboard/.adds/myapp/run.sh
+menu_item :main :Stop My App :cmd_spawn :quiet:/mnt/onboard/.adds/myapp/stop.sh
